@@ -1,0 +1,39 @@
+.m4ploginaccess-note {
+    background-color: #f1f1f1;
+    border: 1px solid #b4b4b4;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 10px 0px !important;
+}
+
+#product .m4ploginaccess-note {
+    margin: 10px 0px !important;
+    padding: 8px 12px;
+}
+
+.ajax_add_to_cart_button,
+button.exclusive,
+.product-add-to-cart button {
+    display: none !important;
+}
+
+a.button.ajax_add_to_cart_button,
+button.add-to-cart,
+.product-add button {
+    display: none !important;
+}
+
+.product-discount,
+.product-price,
+.product-price-and-shipping .regular-price,
+.product-price-and-shipping .discount-product,
+.product-price-and-shipping .price,
+#m4pquickorder-block .product-price,
+.gm_omniprice,
+#product .product-add-to-cart.js-product-add-to-cart,
+.product-flag.discount,
+.product-miniature .product-price-and-shipping {
+    display: none !important;
+}
