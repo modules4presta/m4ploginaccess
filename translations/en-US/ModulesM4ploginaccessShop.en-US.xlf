@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="929ed2ab7879dbfeab94f295f94333de">
+        <source>Please log in to buy products and see prices.</source>
+        <target>Please log in to buy products and see prices.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
