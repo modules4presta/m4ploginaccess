@@ -18,8 +18,8 @@ class M4pLoginAccess extends Module
     {
         $this->name = 'm4ploginaccess';
         $this->tab = 'front_office_features';
-        $this->version = '1.0.0';
-        $this->author = 'Modules4Presta.io';
+        $this->version = '1.0.1';
+        $this->author = 'Modules4Presta';
         $this->need_instance = 0;
         $this->bootstrap = true;
         $this->ps_versions_compliancy = ['min' => '1.7.6.0', 'max' => _PS_VERSION_];

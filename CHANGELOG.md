@@ -4,7 +4,12 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [semantic versioning](https://semver.org/).
 
-## [Unreleased]
+## [1.0.1] - 2026-10-28
+
+### Changed
+- The module's author reads `Modules4Presta`, the same as the rest of the family.
+
+## [1.0.0] - 2026-10-27
 
 ### Added
 - MIT license, `LICENSE`, `composer.json` and the `config.xml` / `config_pl.xml` manifests.
@@ -19,7 +24,7 @@ All notable changes to this project are documented here. The format follows
 ### Removed
 - Unused private method left over from an earlier version.
 
-## [1.0.0] — 2025-07-25
+## [1.0.0] - 2025-07-25 (internal, before the open-source release)
 
 ### Added
 - First release: hidden prices and buy button for guests, optional shop-wide login.
